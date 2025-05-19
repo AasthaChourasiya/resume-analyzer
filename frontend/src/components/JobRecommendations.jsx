@@ -22,7 +22,7 @@ const JobRecommendations = () => {
 
   return (
     <div>
-      <form onSubmit={handleSubmit}>
+      {/* <form onSubmit={handleSubmit}>
         <input
           type="text"
           value={skills}
@@ -30,7 +30,7 @@ const JobRecommendations = () => {
           placeholder="Enter skills"
         />
         <button type="submit">Get Recommendations</button>
-      </form>
+      </form> */}
 
       {recommendations.length > 0 && (
         <ul>
