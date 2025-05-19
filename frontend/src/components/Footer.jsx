@@ -44,12 +44,12 @@ const Footer = () => {
       </div>
 
       {/* Project Title */}
-      <div className="mb-6">
+      {/* <div className="mb-6">
         <h3 className="text-lg font-semibold">Minor Project 2 (Session 2024-2025)</h3>
-      </div>
+      </div> */}
 
       {/* Group Members */}
-      <div className="mb-6">
+      {/* <div className="mb-6">
         <h4 className="text-xl font-semibold mb-2">Group Members:</h4>
         <ul className="text-sm space-y-1 text-gray-500">
           <li>Aastha Chourasiya (Roll No: 0126CS221003)</li>
@@ -58,7 +58,7 @@ const Footer = () => {
           <li>Divyanshu Sinha (Roll No: 0126CS221077)</li>
           <li>Fatima Ali (Roll No: 0126CS221078)</li>
         </ul>
-      </div>
+      </div> */}
 
       {/* Copyright */}
       <p className="text-sm">&copy; 2025 Job Match. All Rights Reserved.</p>
